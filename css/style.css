@@ -1,0 +1,40 @@
+body {
+  background-color:pink;
+  box-shadow: 0 0 10px;
+
+  border-radius: 15px;
+}
+
+h1 {
+  color: rgb(87, 12, 87);
+  text-align: center;
+   text-decoration: underline;
+}
+
+h2 {
+    text-align: left;
+    text-align: center;
+   
+}
+
+h3{
+    text-size-adjust: 20;
+    color: purple;
+    font-family:sarabun;
+    font-size: 20px;
+    line-height: 1.5;
+}
+img {
+    border-radius: 15px;
+    box-shadow: 0 0 10px;
+}
+
+table {border: 1px;
+    border-color:red;
+    text-align: center;
+    margin: auto;
+    height: 50%;
+}
+p{
+    text-align: center;
+}
