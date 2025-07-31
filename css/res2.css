@@ -1,0 +1,50 @@
+*{
+box-sizing: border-box;
+}
+/* Style the body */
+body {
+    font-family: Arial;
+    margin: 0;
+}
+/* Header/logo Title */
+.header {
+padding: 60px;
+text-align: center;
+background: rgb(231, 102, 124);
+color: white;
+}
+/* Style the top navigation bar */
+.navbar {
+display: flex;
+background-color:purple;
+}
+/* Style the navigation bar links */
+.navbar a {
+color: white;
+padding: 14px 20px;
+text-decoration: none;
+text-align: center;
+}
+.row {
+display: flex;
+flex-wrap: wrap;
+}
+.side {
+flex: 30%;
+background-color:skyblue;
+padding: 20px;
+}
+.fakeimg {
+background-color:pink;
+width: 100%;
+padding: 20px;
+}
+/* Footer */
+.footer {
+padding: 20px;
+text-align: center;
+background:skyblue;
+}
+h1{
+    text-align: center;
+}
